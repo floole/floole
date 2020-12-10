@@ -1,10 +1,8 @@
 <h2 align="center">Hi 🥳 my name is Florian</h2>
 
-- 💻  I’m currently working as a team lead dev at [DOM, Cologne/Germany](https://www.dom.de) and as a web dev for my own company called [rheinstrandhelden, near Bonn/Germany](https://www.rheinstrandhelden.de)
+- 💻  I’m working as a team lead dev at [DOM, Cologne/Germany](https://www.dom.de) and as a web dev for my own company called [rheinstrandhelden, near Bonn/Germany](https://www.rheinstrandhelden.de)
 - 🌱 I’m currently learning React Native
-- 👯 I’m looking to collaborate on Drupal decoupled projects
-- 🧐 I’m interested in headless content management systems
-- 💬 Ask me about ... feel free
+- 🧐 I’m interested in headless content management systems and javascript frontends like vuejs/nuxt and react
 
 <h3 align="center">My working tools/skills are currently</h3>
 
