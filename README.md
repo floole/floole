@@ -1,7 +1,7 @@
 <h2 align="center">Hi 🥳 my name is Florian</h2>
 
 - 💻  I’m working as a team lead dev at [DOM, Cologne/Germany](https://www.dom.de) and as a web dev for my own company called [rheinstrandhelden, near Bonn/Germany](https://www.rheinstrandhelden.de)
-- 🌱 I’m currently learning to be employed after 10 years as a freelancer.
+- 🌱 I’m currently learning 
 - 🧐 I’m interested in headless content management systems and javascript frontends like vuejs/nuxt and react
 
 <h3 align="center">My working tools/skills are currently</h3>
@@ -14,8 +14,8 @@
 <h3 align="center">you can find me online at:</h3>
 
 <p align="center">
-<a href="http://creative-technolog.ist" target="_blank">creative-technolog.ist</a><br />
-<a href="https://www.twitter.com/frontendmatters" target="_blank">@frontendmatters</a><br />
+<a href="https://f5n.dev" target="_blank">f5n.dev</a><br />
+<a href="https://www.twitter.com/f5nole" target="_blank">@frontendmatters</a><br />
 <a href="https://www.linkedin.com/in/florian-ole-werner/" target="_blank">LinkedIn</a><br />
 <a href="https://www.xing.com/profile/FlorianOle_Werner/cv" target="_blank">XING</a>
 </p>
