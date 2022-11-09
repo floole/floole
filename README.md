@@ -1,6 +1,6 @@
 <h2 align="center">Hi 🥳 my name is Florian</h2>
 
-- 💻  I’m working as a team lead dev at [Cologne Intelligence, Cologne/Germany](https://www.cologne-intelligence.de) and as a web dev for my own company called [rheinstrandhelden, near Bonn/Germany](https://www.rheinstrandhelden.de)
+- 💻  I’m working as a web frontend developer at [Cologne Intelligence, Cologne/Germany](https://www.cologne-intelligence.de) and as a web dev for my own company called [rheinstrandhelden, near Bonn/Germany](https://www.rheinstrandhelden.de)
 - 🎯 I’m currently learning Angular 
 - 🧐 I’m interested in headless content management systems and javascript frontends like vuejs/nuxt and react
 
