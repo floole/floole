@@ -14,7 +14,6 @@
 
 <p align="center">
 <a href="https://f5n.dev" target="_blank">f5n.dev</a><br />
-<a href="https://www.twitter.com/f5nole" target="_blank">@f5nole</a><br />
 <a href="https://www.linkedin.com/in/florian-ole-werner/" target="_blank">LinkedIn</a><br />
 <a href="https://www.xing.com/profile/FlorianOle_Werner/cv" target="_blank">XING</a>
 </p>
