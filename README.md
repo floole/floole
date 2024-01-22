@@ -1,7 +1,7 @@
 <h2 align="center">Hi 🥳 my name is Florian</h2>
 
-- 💻  I’m working as a web frontend developer at [Cologne Intelligence, Cologne/Germany](https://www.cologne-intelligence.de) and as a web dev for my own company called [rheinstrandhelden, near Bonn/Germany](https://www.rheinstrandhelden.de)
-- 🧐 I’m interested in headless content management systems and javascript frontends like vuejs/nuxt and react
+- 💻  I’m working as a Business Analyst at [Cologne Intelligence, Cologne/Germany](https://www.cologne-intelligence.de) and I'm Jack of all trades, master of none at my company [rheinstrandhelden, near Bonn/Germany](https://www.rheinstrandhelden.de)
+- 🧐 I’m interested in app development, headless content management systems and javascript frontends like vuejs/nuxt and react. JAMSTACK.
 
 <h3 align="center">My working tools/skills are currently</h3>
 
