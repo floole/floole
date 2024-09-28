@@ -1,6 +1,6 @@
 <h2 align="center">Hi 🥳 my name is Florian</h2>
 
-- 💻  I’m working as a Business Analyst at [Cologne Intelligence, Cologne/Germany](https://www.cologne-intelligence.de) and I'm Jack of all trades, master of none at my company [rheinstrandhelden, near Bonn/Germany](https://www.rheinstrandhelden.de)
+- 💻  I’m working as IT Analyst at [congstar, Cologne/Germany](https://www.congstar.de)
 - 🧐 I’m interested in app development, headless content management systems and javascript frontends like vuejs/nuxt and react. JAMSTACK.
 
 <h3 align="center">My working tools/skills are currently</h3>
@@ -14,6 +14,5 @@
 
 <p align="center">
 <a href="https://f5n.dev" target="_blank">f5n.dev</a><br />
-<a href="https://www.linkedin.com/in/florian-ole-werner/" target="_blank">LinkedIn</a><br />
-<a href="https://www.xing.com/profile/FlorianOle_Werner/cv" target="_blank">XING</a>
+<a href="https://www.linkedin.com/in/florian-ole-werner/" target="_blank">LinkedIn</a>
 </p>
